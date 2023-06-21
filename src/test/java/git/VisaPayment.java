@@ -1,4 +1,4 @@
 package git;
 
-public class VisaPayment {
+public class VisaPayment{
 }
