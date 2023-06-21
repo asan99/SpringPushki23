@@ -1,2 +1,4 @@
-package git;public class Amazon {
+package git;
+
+public class Amazon {
 }
